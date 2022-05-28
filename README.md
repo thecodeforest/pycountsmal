@@ -1,6 +1,6 @@
 # pycountsmal
 
-Calculate word counts in a fle
+Calculate word counts in a fle. Add some walnuts. 
 
 ## Installation
 
